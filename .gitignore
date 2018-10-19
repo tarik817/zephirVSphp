@@ -1,0 +1,4 @@
+.idea
+vendor
+Zephir/app/ext
+Zephir/app/.temp
